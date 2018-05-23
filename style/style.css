@@ -1,0 +1,54 @@
+
+/*HTML|BODY*/
+
+html, body {
+  height: 50%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/*DIVS*/
+
+#parent {
+width: 100%;
+text-align: center;
+}
+
+/*BUTTONS*/
+
+#one {
+  height: 50px;
+  width: 100px;
+  background-color: green; 
+}
+
+#two {
+  height: 50px;
+  width: 100px;
+  background-color: yellow; 
+}
+
+#three {
+  height: 50px;
+  width: 100px;
+  background-color: blue;
+}
+
+#four {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+}
+
+
+
+
+
