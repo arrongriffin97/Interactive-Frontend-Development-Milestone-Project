@@ -24,28 +24,43 @@ text-align: center;
 
 /*BUTTONS*/
 
-#one {
+.button {
   height: 50px;
   width: 100px;
+}
+
+.one {
   background-color: green; 
 }
 
-#two {
-  height: 50px;
-  width: 100px;
+.two {
   background-color: yellow; 
 }
 
-#three {
-  height: 50px;
-  width: 100px;
+.three {
   background-color: blue;
 }
 
-#four {
-  height: 50px;
-  width: 100px;
+.four {
   background-color: red;
+}
+
+/*js*/
+
+.green_lit {
+  background-color: #1aff00;
+}
+
+.yellow_lit {
+  background-color: #fff715;
+}
+
+.blue_lit {
+  background-color: #00b3ff;
+}
+
+.red_lit {
+  background-color: #ff0051;
 }
 
 
