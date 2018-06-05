@@ -1,0 +1,72 @@
+
+/*HTML|BODY*/
+
+html, body {
+  height: 50%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/*DIVS*/
+
+#parent {
+width: 100%;
+text-align: center;
+}
+
+/*BUTTONS*/
+
+button {
+  height: 50px;
+  width: 100px;
+}
+
+/*color*/
+
+.green {
+  background-color: #067d00;
+}
+
+.yellow {
+  background-color: #b4bd00;
+}
+
+.blue {
+  background-color: #0035ba;
+}
+
+.red {
+  background-color: #8a0e0e;
+}
+
+/*lights*/
+
+.lit_green {
+  background-color: #0dff00;
+}
+
+.lit_yellow {
+  background-color: #f2ff00;
+}
+
+.lit_blue {
+  background-color: #0091ff;
+}
+
+.lit_red {
+  background-color: #ff0000;
+}
+
+
+
+
+
+

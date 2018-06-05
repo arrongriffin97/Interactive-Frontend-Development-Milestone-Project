@@ -8,4 +8,4 @@ This project will be based off the simon memory game.
 
 3. Created a basic structure in the html and css of what I want it to look like
 
-4. I also referenced Jquery in HTML / Started on script.js and I added all the variables that I think will be needed / Added lit colours in style.css / Created the random functions
+4. I referenced Jquery in the HTML / Started on script.js and I added all the variables that I think will be needed / Added lit colours in style.css / Created the random functions
