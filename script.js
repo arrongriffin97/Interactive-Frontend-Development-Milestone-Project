@@ -12,7 +12,6 @@ var lit;
 
 function change1() {
 
-    //set interval length
     if (count <= 10) {
         off = 400;
         on = 800;
@@ -137,8 +136,6 @@ function checking() {
             }
 }
 
-
-//to switch on
 $('#on').on('click', function () {
     $('#count').text('--');
 
@@ -146,7 +143,6 @@ $('#on').on('click', function () {
     random[i] = Math.ceil((Math.random() * 4));
     }
 
-    //to start the game
     $('#start').on('click', function () {
 
         $('#count').text(count);
@@ -155,7 +151,6 @@ $('#on').on('click', function () {
 
     });
 
-    //user to play
     $('#one').on('click', function () {
 
         $('#one').addClass('green');
@@ -215,7 +210,6 @@ $('#on').on('click', function () {
 
 });
 
-//to switch off
 $('#off').on('click', function () {
     location.reload();
 });

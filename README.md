@@ -9,3 +9,5 @@ This project will be based off the simon memory game.
 3. Created a basic structure in the html and css of what I want it to look like
 
 4. I referenced Jquery in the HTML / Started on script.js and I added all the variables that I think will be needed / Added lit colours in style.css / Created the random functions
+
+5. *Forgot to add description in last commit* Fixed Typos and reference placements / added my functions/ cleaned up my code / added an on, off switch so for ease when it comes to bugs
