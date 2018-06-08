@@ -153,12 +153,12 @@ $('#on').on('click', function () {
 
     $('#one').on('click', function () {
 
-        $('#one').addClass('green');
+        $('#one').addClass('lit_green');
 
         clicked.push(1);
 
         setTimeout(function () {
-            $('#one').removeClass('green');
+            $('#one').removeClass('lit_green');
 
         }, 300);
 
@@ -168,12 +168,12 @@ $('#on').on('click', function () {
 
     $('#two').on('click', function () {
 
-        $('#two').addClass('yellow');
+        $('#two').addClass('lit_yellow');
 
         clicked.push(2);
 
         setTimeout(function () {
-            $('#two').removeClass('yellow');
+            $('#two').removeClass('lit_yellow');
 
         }, 300);
 
@@ -182,12 +182,12 @@ $('#on').on('click', function () {
 
     $('#three').on('click', function () {
 
-        $('#three').addClass('blue');
+        $('#three').addClass('lit_blue');
 
         clicked.push(3);
 
         setTimeout(function () {
-            $('#three').removeClass('blue');
+            $('#three').removeClass('lit_blue');
 
         }, 300);
 
@@ -196,12 +196,12 @@ $('#on').on('click', function () {
 
     $('#four').on('click', function () {
 
-        $('#four').addClass('red');
+        $('#four').addClass('lit_red');
 
         clicked.push(4);
 
         setTimeout(function () {
-            $('#four').removeClass('red');
+            $('#four').removeClass('lit_red');
 
         }, 300);
 

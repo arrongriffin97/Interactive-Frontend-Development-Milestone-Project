@@ -10,4 +10,5 @@ This project will be based off the simon memory game.
 
 4. I referenced Jquery in the HTML / Started on script.js and I added all the variables that I think will be needed / Added lit colours in style.css / Created the random functions
 
-5. *Forgot to add description in last commit* Fixed Typos and reference placements / added my functions/ cleaned up my code / added an on, off switch so for ease when it comes to bugs
+5. * I was having problems with git after deleting a commit with no updated description* 
+Fixed Typos and reference placements / added my functions / cleaned up my code / added an on switch so for ease when it comes to bugs / fixed my lights with a class of lit and litID / added math for the leveling system / added clicks / off switch implemented 
